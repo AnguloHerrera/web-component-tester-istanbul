@@ -1,6 +1,8 @@
 Web-Component-Tester-Istanbul
 =============================
 
+This NPM package is published into https://github.com/AnguloHerrera/web-component-tester-istanbul/tree/npm, because master branch is reserved to the PR to the original repository, and it is pending to merge.
+
 Istanbul coverage plugin for web-component-tester.
 
 Use this plugin to collect and report test coverage (via istanbul) for
