@@ -23,7 +23,7 @@ Add the following configuration to web-component-tester's config file.
 ```js
 module.exports = {
   plugins: {
-    istanbul-coverage: {
+    istanbulcoverage: {
       dir: "./coverage",
       reporters: ["text-summary", "lcov"],
       include: [

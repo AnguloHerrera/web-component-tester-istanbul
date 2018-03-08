@@ -1,6 +1,6 @@
 {
   "name": "web-component-tester-istanbulcoverage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Instanbul coverage reporting for projects being tested by web-component-tester. Web-component-tester version should be greater than 6.4.0",
   "main": "lib/plugin.js",
   "scripts": {
