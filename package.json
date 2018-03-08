@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anguloherrera/web-component-tester-istanbul.git"
+    "url": "https://github.com/AnguloHerrera/web-component-tester-istanbul/tree/npm"
   },
   "keywords": [
     "web-component-tester",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/anguloherrera/web-component-tester-istanbul/issues"
   },
-  "homepage": "https://github.com/anguloherrera/web-component-tester-istanbul",
+  "homepage": "https://github.com/AnguloHerrera/web-component-tester-istanbul/tree/npm",
   "dependencies": {
     "express": "^4.15.3",
     "html-script-hook": "^1.0.0",
