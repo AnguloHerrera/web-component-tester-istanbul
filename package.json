@@ -1,14 +1,14 @@
 {
-  "name": "web-component-tester-istanbul",
+  "name": "web-component-tester-istanbulcoverage",
   "version": "1.0.0",
-  "description": "Instanbul coverage reporting for projects being tested by web-component-tester",
+  "description": "Instanbul coverage reporting for projects being tested by web-component-tester. Web-component-tester version should be greater than 6.4.0",
   "main": "lib/plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thedeeno/web-component-tester-istanbul.git"
+    "url": "https://github.com/anguloherrera/web-component-tester-istanbul.git"
   },
   "keywords": [
     "web-component-tester",
@@ -16,12 +16,12 @@
     "coverage",
     "wct"
   ],
-  "author": "Dane O'Connor",
+  "author": "Natalia Angulo (forked and updated from the original author Dane O'Connor)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thedeeno/web-component-tester-istanbul/issues"
+    "url": "https://github.com/anguloherrera/web-component-tester-istanbul/issues"
   },
-  "homepage": "https://github.com/thedeeno/web-component-tester-istanbul",
+  "homepage": "https://github.com/anguloherrera/web-component-tester-istanbul",
   "dependencies": {
     "express": "^4.15.3",
     "html-script-hook": "^1.0.0",
