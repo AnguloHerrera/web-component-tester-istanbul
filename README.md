@@ -11,7 +11,7 @@ your project on each test run.
 ## Installation
 
 ```sh
-npm install web-component-tester-istanbul --save-dev
+npm install web-component-tester-istanbulcoverage --save-dev
 ```
 
 ## Basic Usage
